@@ -1,0 +1,4 @@
+venv/
+.idea/
+__pycachce__/
+.pytest_cache/
