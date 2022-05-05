@@ -3,7 +3,7 @@ Unit tests for first end-point
 """
 
 import json
-from .fixture import client
+from fixture import client
 
 
 def test_first(client):
